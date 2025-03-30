@@ -1,26 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 145"
-meetup: "https://www.meetup.com/bitdevsnyc/events/306517702/"
+title: "Socratic Seminar #1"
+meetup: "https://lu.ma/hqws2482"
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [Chaincode Labs](https://chaincode.com) and [Lava](https://www.lava.xyz/) for food, refreshments and event space.
 
-Please note the new start time! We will open doors at 6pm for socializing, and plan on starting the discussion around 7pm.
-
-If you can't make it to the main event please join us at [PUBKEY](https://pubkey.bar/home) around 9:30PM.
-
-Follow New York BitDevs on:
-
-- [Twitter](https://x.com/BitDevsNYC)
-- [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
-- nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
-
-## Presentation
-- [Joost Jager](https://x.com/joostjgr): "Attributable failures in lightning"
-
+- Thanks to [Vinteum](https://vinteum.org/) and [Bitcoin Paraguay](https://bitcoinparaguay.org/) for the support
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -62,36 +49,12 @@ Follow New York BitDevs on:
 - [Zero-fee commitments for mobile wallets](https://delvingbitcoin.org/t/zero-fee-commitments-for-mobile-wallets)
 
 
-### Meetings
-- [Bitcoin PR Review Club](https://bitcoincore.reviews)
-    - [#31405 Stricter internal handling of invalid blocks](https://bitcoincore.reviews/31405)
-    - [Testing Bitcoin Core 29.0 Release Candidates](https://bitcoincore.reviews/v29-rc-testing)
-
-- Bitcoin Core general developer meetings
-    - [February 20](https://www.erisian.com.au/bitcoin-core-dev/log-2025-02-20.html#l-115)
-    - [March 6](https://www.erisian.com.au/bitcoin-core-dev/log-2025-03-06.html#l-93)
-    - [March 13](https://www.erisian.com.au/bitcoin-core-dev/log-2025-03-13.html#l-163)
-    - [March 20](https://www.erisian.com.au/bitcoin-core-dev/log-2025-03-20.html#l-171)
-
-- Lightning Specification meeting
-    - [February 24](https://github.com/lightning/bolts/issues/1229)
-    - [March 10](https://github.com/lightning/bolts/issues/1234)
-    - [March 24](https://github.com/lightning/bolts/issues/1238)
-
 ### Optech
 - [Bitcoin Optech Newsletter #346](https://bitcoinops.org/en/newsletters/2025/03/21/)
 - [Bitcoin Optech Newsletter #345](https://bitcoinops.org/en/newsletters/2025/03/14/)
 - [Bitcoin Optech Newsletter #344](https://bitcoinops.org/en/newsletters/2025/03/07/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/03/11/)
 - [Bitcoin Optech Newsletter #343](https://bitcoinops.org/en/newsletters/2025/02/28/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/03/04/)
 - [Bitcoin Optech Newsletter #342](https://bitcoinops.org/en/newsletters/2025/02/21/) - [Recap Podcast](https://bitcoinops.org/en/podcast/2025/03/04/)
-
-
-## Network Data
--
-
-## CVEs and Research
-### Research
--
 
 ### InfoSec
 - [Undocumented commands found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/)
@@ -273,15 +236,6 @@ Follow New York BitDevs on:
 - [Check for preimage before failing back missing HTLCs](https://github.com/lightning/bolts/pull/1233)
 - [Fix typo in peer storage spec, update tools/extract-formats.py ](https://github.com/lightning/bolts/pull/1231)
 
-
-## New Releases
--
-
-## Events and Podcasts
--
-
-## Mining
--
 
 ## Miscellaneous
 - [Bybit Loses $1.5B in Hack but Can Cover Loss](https://www.coindesk.com/business/2025/02/21/bybit-experiences-usd1-46b-in-suspicious-outflows-zachxbt)
